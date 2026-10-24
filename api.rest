@@ -21,7 +21,7 @@ Content-Type: application/json
 
 # @name GetStoriesById
 
-GET {{url}}/story/6418a754e96d093760bfa77
+GET {{url}}/story/649481a963a586839dc896ef
 
 ###
 # @name Sign Up
